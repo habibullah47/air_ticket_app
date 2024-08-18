@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # my_notes
 
 My important notes will be shown in this section.
@@ -165,3 +166,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# air_ticket_app
+>>>>>>> 1c181a8f322d7af64062724bb99ce2bcb0bb62ce
